@@ -1,4 +1,5 @@
 # Prework Study Guide Webpage
+![alt text](<assets/Opera Snapshot_2024-02-04_122855_127.0.0.1.png>)
 
 ## Description
 
